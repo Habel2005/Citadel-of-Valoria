@@ -1,0 +1,6 @@
+{
+  "name": "Citadel of Valoria",
+  "description": "Interactive 3D procedural voxel island citadel rendered in Three.js with dynamic lighting, animated ocean, and smooth camera viewpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
